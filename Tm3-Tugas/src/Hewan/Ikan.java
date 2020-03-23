@@ -7,7 +7,7 @@ package Hewan;
 
 /**
  *
- * @author Ilham DM
+ * @author ACER
  */
 public class Ikan extends Hewan{
     boolean statusGantiAir;
