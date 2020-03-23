@@ -7,7 +7,7 @@ package Hewan;
 
 /**
  *
- * @author Ilham DM
+ * @author ACER
  */
 public class Anjing extends Hewan{
     boolean statusSuntikRabies;
